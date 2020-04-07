@@ -3,7 +3,8 @@ import MyComponent from './MyComponent';
 import MyClassTypeComponent from './MyClassTypeComponent';
 import Counter from './Counter';
 import Say from './Say';
-import EventPractise from './EventPractise';
+// import EventPractise from './EventPractise';
+import EventPractice from './EventPractice';
 
 const App = () => {
   return (
@@ -14,7 +15,8 @@ const App = () => {
     // </MyClassTypeComponent>
     // <Counter />
     // <Say />
-    <EventPractise />
+    // <EventPractise />
+    <EventPractice />
   );
 };
 
