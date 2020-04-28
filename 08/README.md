@@ -9,3 +9,8 @@
 ### useEffect
 
 리액트 컴포넌트가 랜더링 될 때마다 특정 작업을 수행하도록 설정할 수 있는 Hook, 클래스형 컴포넌트의 componentDidMount와 componentDidUpdate를 합친 형태로 봐도 됨.
+
+### useReducer
+
+useState보다 더 다양한 컴포넌트 상황에 따라 다양한 상태를 다른 값으로 업데이트 할 때 사용
+장점: 컴포넌트 업데이트 로직을 컴포넌트 바깥으로 빼낼 수 있음.
