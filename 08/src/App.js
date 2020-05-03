@@ -15,7 +15,8 @@ function App() {
       <hr />
       {visible && <Info />}
       <Counter /> */}
-      <Average />
+      {/* <Average /> */}
+      <Info />
     </div>
   );
 }
